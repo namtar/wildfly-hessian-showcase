@@ -1,2 +1,6 @@
 # wildfly-hessian-showcase
-A showcase for the use of the hessian library on wildfly
+Ein Showcase, der die Benutzung der Hessian Library [http://hessian.caucho.com/](http://hessian.caucho.com/) 
+auf einem Wildfly 10 Application Server zeigen soll.
+
+
+
